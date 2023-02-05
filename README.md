@@ -1,3 +1,4 @@
+<img src="https://static.webdevmentor.info/images/facebook_cover_photo_1.png">
 # 👋 Hi, I’m @webdevmentor
 - 👀 I’m interested in teaching junior developers the basics of web development, <br>
   so they don't have to spend years over years to build their dream app/website.
