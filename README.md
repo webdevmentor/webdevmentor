@@ -1,12 +1,13 @@
 ![WebDevMentor Logo](https://static.webdevmentor.info/images/twitter_header_photo_2.png)
 
-# 👋 Hi, I’m @webdevmentor
-- 👀 I’m interested in teaching junior developers the basics of web development, <br>
-  so they don't have to spend years over years to build their dream app/website.
-- 👨‍💻 I started a new job as C# developer
-- 🌱 I’m currently learning about CI and automation with GitHub actions.
-- 💞️ I’m looking to collaborate on personal projects which are entangled in spaghetti code.
-- 📫 You can reach me here [@GitHub](https://github.com/webdevmentor) or [@webdevmentor.info](https://www.webdevmentor.info)
+# 👋 Hi, ich bin @webdevmentor
+
+- 👀 Ich möchte Entwicklern helfen, die Grundlagen der Webentwicklung besser zu verstehen,
+  damit sie nicht jeden Fehler selbst machen müssen.
+- 👨‍💻 Ich arbeite aktuell als PHP-Entwickler und helfe alten Anwendungen, weiterhin Umsatz zu generieren.
+- 🌱 Ich beschäftige mich gerade mit CI und Automatisierung mit GitHub Actions.
+- 💞️ Ich unterstütze gerne persönliche Projekte — besonders solche, die irgendwann etwas zu viel Spaghetti-Code angesammelt haben.
+- 📫 Du erreichst mich hier: [@GitHub](https://github.com/webdevmentor) oder [@webdevmentor.info](https://www.webdevmentor.info)
 
 ## Unterstützen
 
